@@ -1,4 +1,3 @@
-
 # Grisha Rebik
 
 ## Contacts
@@ -18,6 +17,18 @@ I have a passion for working with video and audio, editing videos and and upload
 
 * **My goals:**
 I am interested in pursuing a career in the field of programming, and I would like to acquire more skills in this area. Programming — is a broad and interesting field that can contribute to both my personal growth and the overall development of society.
+[RS.school](https://rs.school/) is a new chapter in my life, and I need to make the most of it.
 
-##  Skills
-* 
+## 🛠 Skills
+
+### Programming experience
+I have experience in creating animations using Scratch programming languages. During my schooling, I wrote code in Pascal ABC and also worked with MINDSTORMS EV3 robotics (including participating in competitions). However, I have not yet been involved in any significant projects.
+### Program exrerience 
+* Adobe: Premier Pro, Photoshop, Illustrator,InDesign
+* Microsoft Office😄
+* Pascal abc, Scretch, MINDSTORMS EV3
+
+## Languages
+>* Russian — native
+>* Belarusian — B1-B2
+>* English — B2-C1 *(Upper-Intermediate—Advanced)*
