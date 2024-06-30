@@ -47,7 +47,13 @@ I have experience in creating animations using Scratch programming languages. Du
 * Pascal abc, Scretch, MINDSTORMS EV3
 
 ## Languages
+<<<<<<< HEAD
 >* Russian — native
 >* Belarusian — B1-B2
 >* English — B2-C1 *(Upper-Intermediate—Advanced)*
 >>>>>>> 2b86784 (12345)
+=======
+* Russian — native
+* Belarusian — B1-B2
+* English — B2-C1 *(Upper-Intermediate—Advanced)*
+>>>>>>> 215950e (mb end)
