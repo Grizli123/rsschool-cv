@@ -7,6 +7,5 @@
     "prettier.semi": false ,
     "prettier.jsxSingleQuote": true,
     "prettier.singleQuote": true,
-    "prettier.arrowParens": "avoid",
-    "terminal.integrated.defaultProfile.windows": "Command Prompt", 
+    "prettier.arrowParens": "avoid",    
 }
