@@ -1,4 +1,13 @@
 {
     "intellicodeApiExamples.loggingLevel": "ALL",
-    "cSpell.language": "en,ru"
+    "cSpell.language": "en,ru",
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": «esbenp.prettier-vscode»,
+    "prettier.useTabs": true,
+    "prettier.semi": false ,
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "prettier.arrowParens": "avoid",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt", 
+    
 }
