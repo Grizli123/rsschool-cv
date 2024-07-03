@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "intellicodeApiExamples.loggingLevel": "ALL",
     "cSpell.language": "en,ru",
     "editor.formatOnPaste": true,
@@ -17,4 +18,7 @@
 =======
     
 >>>>>>> 63f2da3 (fix: terminal)
+=======
+    "intellicodeApiExamples.loggingLevel": "ALL"
+>>>>>>> edf99e1 (fix: settings)
 }
