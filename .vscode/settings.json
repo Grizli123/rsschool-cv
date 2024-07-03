@@ -1,5 +1,8 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 09bf45a (fix: settings)
     "intellicodeApiExamples.loggingLevel": "ALL",
     "cSpell.language": "en,ru",
     "editor.formatOnPaste": true,
@@ -12,6 +15,7 @@
     "terminal.integrated.defaultProfile.windows": "Command Prompt", 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     
 >>>>>>> 3e35f1f (fix: terminal)
@@ -21,4 +25,6 @@
 =======
     "intellicodeApiExamples.loggingLevel": "ALL"
 >>>>>>> edf99e1 (fix: settings)
+=======
+>>>>>>> 09bf45a (fix: settings)
 }
