@@ -56,4 +56,3 @@ I have experience in creating animations using Scratch programming languages. Du
 * Russian — native
 * Belarusian — B1-B2
 * English — B2-C1 *(Upper-Intermediate—Advanced)*
->>>>>>> 215950e (mb end)
