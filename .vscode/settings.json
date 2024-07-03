@@ -9,4 +9,8 @@
     "prettier.singleQuote": true,
     "prettier.arrowParens": "avoid",
     "terminal.integrated.defaultProfile.windows": "Command Prompt", 
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 3e35f1f (fix: terminal)
 }
