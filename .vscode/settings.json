@@ -12,6 +12,7 @@
     "prettier.jsxSingleQuote": true,
     "prettier.singleQuote": true,
     "prettier.arrowParens": "avoid",
+<<<<<<< HEAD
     "terminal.integrated.defaultProfile.windows": "Command Prompt", 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -33,4 +34,6 @@
     
 >>>>>>> 3e35f1f (fix: terminal)
 >>>>>>> 3e28735 (fix: terminal)
+=======
+>>>>>>> f983086 (fix: settings)
 }
