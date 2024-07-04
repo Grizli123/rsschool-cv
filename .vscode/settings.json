@@ -1,8 +1,11 @@
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 09bf45a (fix: settings)
+=======
+>>>>>>> 5ed41984fef47d04e473bbbcb9f25e10fdcab225
     "intellicodeApiExamples.loggingLevel": "ALL",
     "cSpell.language": "en,ru",
     "editor.formatOnPaste": true,
@@ -12,6 +15,7 @@
     "prettier.jsxSingleQuote": true,
     "prettier.singleQuote": true,
     "prettier.arrowParens": "avoid",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "terminal.integrated.defaultProfile.windows": "Command Prompt", 
 <<<<<<< HEAD
@@ -36,4 +40,6 @@
 >>>>>>> 3e28735 (fix: terminal)
 =======
 >>>>>>> f983086 (fix: settings)
+=======
+>>>>>>> 5ed41984fef47d04e473bbbcb9f25e10fdcab225
 }

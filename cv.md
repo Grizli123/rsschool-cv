@@ -1,5 +1,6 @@
 # Grisha Rebik
 
+<<<<<<< HEAD
 #Contacts
 
 <<<<<<< HEAD
@@ -15,6 +16,10 @@
 * Telegram: [@Gregarinza] (https://t.me/Gregarinza)
 >>>>>>> dd8b01e (test)
 =======
+=======
+## Contacts
+
+>>>>>>> 5ed41984fef47d04e473bbbcb9f25e10fdcab225
 * **Location :** Minsk, Belarus
 * **Phone :** +375-(29)-748-37-77
 * **E-mail :** <grisharebi@gmail.com>
@@ -33,10 +38,13 @@ I am interested in pursuing a career in the field of programming, and I would li
 [RS.school](https://rs.school/) is a new chapter in my life, and I need to make the most of it.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ##  Skills
 * 
 >>>>>>> b693a69 (2 test)
 =======
+=======
+>>>>>>> 5ed41984fef47d04e473bbbcb9f25e10fdcab225
 ## 🛠 Skills
 
 ### Programming experience
@@ -48,6 +56,7 @@ I have experience in creating animations using Scratch programming languages. Du
 
 ## Languages
 <<<<<<< HEAD
+<<<<<<< HEAD
 >* Russian — native
 >* Belarusian — B1-B2
 >* English — B2-C1 *(Upper-Intermediate—Advanced)*
@@ -56,3 +65,9 @@ I have experience in creating animations using Scratch programming languages. Du
 * Russian — native
 * Belarusian — B1-B2
 * English — B2-C1 *(Upper-Intermediate—Advanced)*
+=======
+* Russian — native
+* Belarusian — B1-B2
+* English — B2-C1 *(Upper-Intermediate—Advanced)*
+
+>>>>>>> 5ed41984fef47d04e473bbbcb9f25e10fdcab225
