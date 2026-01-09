@@ -3,7 +3,7 @@
 ## Contacts
 
 * **Location :** Minsk, Belarus
-* **Phone :** +375-(29)-748-37-77
+* **Phone :** +375-(29)-666-66-66
 * **E-mail :** <grisharebi@gmail.com>
 * **Telegram:** [@Gregarinza](https://t.me/Gregarinza)
 * **Discord:** grish4
